@@ -6,7 +6,7 @@ import { menuData } from "../data/MenuData"
 import { ThemeContext } from "./ThemeContext"
 const DarkModeToggle = React.lazy(() => import("react-dark-mode-toggle"))
 
-const Header = props => {
+const Header = () => {
   const { colorMode, setColorMode } = React.useContext(ThemeContext)
   let currentTheme, darkModeBoolean
   if (typeof window !== "undefined") {
