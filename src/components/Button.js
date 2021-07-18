@@ -10,7 +10,6 @@ export const Button = styled(Link)`
   text-decoration: none;
   padding: ${({ big }) => (big ? "0.4rem 1.6rem" : "0 1rem")};
   font-size: ${({ big }) => (big ? "16px" : "12px")};
-  outline: none;
   border: none;
   height: auto;
   width: fit-content;
