@@ -17,7 +17,7 @@ const About = () => (
   <Layout>
     <Seo title="About" />
     <Container>
-      <Title content="Every coder has their journey —" />
+      <Title content="Everybody has their own journey —" />
       <SubTitle content="this is mine." />
       <AboutSectionOne />
       <AboutSectionTwo />
