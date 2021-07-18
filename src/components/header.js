@@ -1,4 +1,4 @@
-import React, { Suspense, useEffect, useState } from "react"
+import React, { useEffect, useState } from "react"
 import { Link } from "gatsby"
 import styled from "styled-components"
 import { FaBars } from "react-icons/fa"
@@ -84,13 +84,11 @@ const Header = props => {
             style={{ float: "right" }}
             className="theme-switch-wrapper"
           >
-            <Suspense fallback={<div>Loading...</div>}>
-              <DarkModeToggle
-                onChange={isDarkMode => toggleDarkMode(isDarkMode)}
-                checked={isDarkMode}
-                size={80}
-              />
-            </Suspense>
+            <DarkModeToggle
+              onChange={isDarkMode => toggleDarkMode(isDarkMode)}
+              checked={isDarkMode}
+              size={80}
+            />
           </ThemeToggler>
         )}
       </NavMenu>
