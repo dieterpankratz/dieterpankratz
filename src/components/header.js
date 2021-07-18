@@ -69,6 +69,14 @@ const Header = () => {
             {menuItem.title}
           </NavLink>
         ))}
+        <NavLink
+          to="https://github.com/dieterpankratz/notebook"
+          key="notebook-link"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Notebook
+        </NavLink>
         {/* <ExtLink
           href="/static/CV_JULY_2021.pdf"
           key={444}
