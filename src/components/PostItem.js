@@ -47,4 +47,5 @@ const PostItemDate = styled.span`
 
 const PostItemSummary = styled.p`
   font-size: 16px;
+  margin-bottom: 0;
 `
