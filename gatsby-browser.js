@@ -1,7 +1,11 @@
-/**
- * Implement Gatsby's Browser APIs in this file.
- *
- * See: https://www.gatsbyjs.com/docs/browser-apis/
- */
+import React from "react"
+import App from "./src/components/App"
+import { MDXProvider } from "@mdx-js/react"
 
-// You can delete this file if you're not using it
+export const wrapRootElement = ({ element }) => {
+  return (
+    <MDXProvider>
+      <App>{element}</App>
+    </MDXProvider>
+  )
+}

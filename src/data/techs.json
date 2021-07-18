@@ -1,0 +1,57 @@
+[
+  {
+    "img": "../assets/images/c-logo.png",
+    "alt": "C Logo",
+    "name": "C"
+  },
+  {
+    "img": "../assets/images/html-logo.png",
+    "alt": "HTML Logo",
+    "name": "HTML"
+  },
+  {
+    "img": "../assets/images/css-logo.png",
+    "alt": "CSS Logo",
+    "name": "CSS"
+  },
+  {
+    "img": "../assets/images/js-logo.png",
+    "alt": "JavaScript Logo",
+    "name": "JavaScript"
+  },
+  {
+    "img": "../assets/images/ruby-logo.png",
+    "alt": "Ruby Logo",
+    "name": "Ruby"
+  },
+  {
+    "img": "../assets/images/python-logo.png",
+    "alt": "Python Logo",
+    "name": "Python"
+  },
+  {
+    "img": "../assets/images/ts-logo.png",
+    "alt": "TypeScript Logo",
+    "name": "TypeScript"
+  },
+  {
+    "img": "../assets/images/react-logo.png",
+    "alt": "React Logo",
+    "name": "React"
+  },
+  {
+    "img": "../assets/images/figma-logo.png",
+    "alt": "Figma Logo",
+    "name": "Figma"
+  },
+  {
+    "img": "../assets/images/postgresql-logo.png",
+    "alt": "PostgreSQL Logo",
+    "name": "PostgreSQL"
+  },
+  {
+    "img": "../assets/images/graphql-logo.png",
+    "alt": "GraphQL Logo",
+    "name": "GraphQL"
+  }
+]
