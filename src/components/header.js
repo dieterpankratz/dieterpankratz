@@ -69,14 +69,14 @@ const Header = () => {
             {menuItem.title}
           </NavLink>
         ))}
-        <ExtLink
+        {/* <ExtLink
           href="/static/CV_JULY_2021.pdf"
           key={444}
           target="_blank"
           rel="noopener noreferrer"
         >
           Resume
-        </ExtLink>
+        </ExtLink> */}
       </NavMenu>
       <NavMenu>
         {typeof isDarkMode !== "undefined" && (
