@@ -70,7 +70,7 @@ const Header = () => {
           </NavLink>
         ))}
         <ExtLink
-          href="/static/CV_MAY_2021.pdf"
+          href="/static/CV_JULY_2021.pdf"
           key={444}
           target="_blank"
           rel="noopener noreferrer"
