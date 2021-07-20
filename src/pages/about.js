@@ -22,16 +22,17 @@ const About = () => (
       <AboutSectionOne />
       <AboutSectionTwo />
       <AboutSectionThree />
-      <AboutSectionFour />
       <iframe
-        width="560"
-        height="315"
-        src="https://www.youtube.com/embed/ib9airwax5w?controls=0"
+        style={{ margin: "1rem 0", borderRadius: "10px" }}
+        width="100%"
+        height="500"
+        src="https://www.youtube.com/embed/ib9airwax5w?controls=1"
         title="YouTube video player"
         frameborder="0"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
         allowfullscreen
       ></iframe>
+      <AboutSectionFour />
       <AboutSectionFive />
       <AboutSectionSix />
       <AboutSectionSeven />
