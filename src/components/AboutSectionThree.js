@@ -35,7 +35,7 @@ const AboutSectionThree = () => {
             like. Besides university, I have worked in bars and clubs where I've
             build friendships with people who share that passion. Those
             friendships made it to daylight and we lived in the same building.
-            In the back yard we had a house with music studios, a large kitchen
+            In the backyard we had a house with music studios, a large kitchen
             and a club in the basement.
           </p>
         </TextContent>

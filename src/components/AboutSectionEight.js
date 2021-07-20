@@ -39,7 +39,7 @@ const AboutSectionEight = () => {
             In the café in the German Historical Museum I walked about 20km per
             shift and served grandma’s coffee and overpriced cake, was amused by
             tourists who eat Bavarian veal sausage with its skin on and I was
-            very upset about other tourists who don't tip. In October 2019 my
+            very upset about other tourists who didn't tip. In October 2019 my
             coding journey began and it was probably the best decision of my
             life: I started to learn how to build digital products!
           </p>

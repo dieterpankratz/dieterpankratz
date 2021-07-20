@@ -33,9 +33,9 @@ const AboutSectionFive = () => {
             to learn about HTML, CSS and a bit of JavaScript. I realized that
             the web as we know it today has gone through a big evolution. I felt
             overwhelmed by all these acronyms. Doing my research I discovered
-            the world of Coding Bootcamp's. I liked having the opportunity to
-            meet like-minded people and learn coding togethoer so I decided to
-            attend Le Wagon Coding Bootcamp.
+            the world of Coding Bootcamp's. I liked the thought having the
+            opportunity to meet like-minded people and learn coding together so
+            I decided to attend Le Wagon Coding Bootcamp.
           </p>
         </TextContent>
       </ColumnOne>

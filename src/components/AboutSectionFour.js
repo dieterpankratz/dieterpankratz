@@ -39,7 +39,7 @@ const AboutSectionFour = () => {
             and I've also become more understanding, open-minded and more
             tolerant towards other opinions. We were looking for a way to start
             our artist booking agency, promote our record releases and events.
-            So I started to play around with WordPress and build our website. I
+            So I started to play around with WordPress and built our website. I
             had lot's of fun doing that but also felt the boundaries of that
             technology.
           </p>

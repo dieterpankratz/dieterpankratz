@@ -34,13 +34,13 @@ const AboutSectionTwo = () => {
       <ColumnOne>
         <TextContent>
           <p>
-            I was not so bad at math and have always been (to a certain extent)
+            I was not so bad at maths and have always been (to a certain extent)
             enthusiastic about consumer electronics. I thought it would be great
             to jump on the other side of the mirror to see how to build those
             products and so I enrolled in an electrical engineering program at
             Mannheim University of Applied Sciences. This study has taught me a
             lot about electrical signal processing, digital and analog. I've
-            learned that those worlds have a lot in coming when it's about
+            learned that those worlds have a lot in common when it's about
             solving problems. In a nutshell you solve a problem by breaking it
             down into smaller chunks until you get to a point where you say "I
             can do that!".

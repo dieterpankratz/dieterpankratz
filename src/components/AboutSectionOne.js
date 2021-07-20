@@ -31,7 +31,7 @@ const AboutSectionOne = () => {
           <p>
             Growing up in a gastronomic household I naturally learned what it
             means to work at the forefront of customer contact. Yes, this
-            indurstie has many dark sides and yet gastronomy has always
+            industry has many dark sides and yet gastronomy has always
             fascinated me. You can learn so much about human facets and hear
             lot's of stories. When you really make an effort and your guests
             appreciate it - that's a great feeling. And then there are guests
