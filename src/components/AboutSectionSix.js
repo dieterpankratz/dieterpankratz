@@ -19,6 +19,7 @@ const AboutSectionSix = () => {
                 ...GatsbyImageSharpFluid
               }
             }
+            name
           }
         }
       }
@@ -28,7 +29,11 @@ const AboutSectionSix = () => {
     <ContentWrapper>
       <ColumnTwo>
         {data.allFile.edges.map((image, key) => (
-          <Images key={key} fluid={image.node.childImageSharp.fluid} />
+          <Images
+            key={key}
+            fluid={image.node.childImageSharp.fluid}
+            alt={image.node.name}
+          />
         ))}
       </ColumnTwo>
       <ColumnOne>
