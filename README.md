@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm passionate about UI's and live to learn.
+I'm passionate about UI's and I live to learn.
 
 - ❤️ I’m in love with React and TypeScript.
 - 🌱 I’m currently learning [Elm](https://elm-lang.org).
